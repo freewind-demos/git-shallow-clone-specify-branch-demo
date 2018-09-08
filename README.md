@@ -1,4 +1,4 @@
-Git Shallow Clone Checkout Remote Branch Demo
-=============================================
+Git Shallow Clone Specify Branch Demo
+=====================================
 
 Init
