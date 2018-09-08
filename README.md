@@ -8,7 +8,9 @@ Git Shallow Clone Checkout Remote Branch Demo
 - `master`: 默认。特点是`current-branch.txt`内容为`master`
 - `admin`: 特点是`current-branch.txt`内容为`admin`
 
-图:TODO
+![demo](./images/demo.jpg)
+
+（注：随着不断commit，上面会多出一些提交，但是最下面几行跟图中应该是一样的）
 
 如何测试
 ----
