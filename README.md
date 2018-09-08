@@ -1,5 +1,5 @@
-Git Shallow Clone Checkout Remote Branch Demo
-=============================================
+Git Shallow Clone Specify Branch Demo
+=====================================
 
 这个Demo用来测试当git使用"shallow clone"时下载指定的分支。
 
